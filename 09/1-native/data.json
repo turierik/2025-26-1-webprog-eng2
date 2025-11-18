@@ -1,0 +1,11 @@
+[
+    {
+        "email": "test@test.com",
+        "two_words": "hihi haha",
+        "seven": "qw543qw",
+        "negint": -8,
+        "tickme": true,
+        "color": "red",
+        "card": "2525-2525-2525-2525"
+    }
+]
